@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![stats](https://github-readme-stats.vercel.app/api?username=damon-kwok&theme=dark)](https://damon-kwok.github.io/)
+
+### Page visitor counter
+![visitor counter](https://profile-counter.glitch.me/liexusong/count.svg)
